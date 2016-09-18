@@ -1,0 +1,34 @@
+The Color Purple	Walker, Alice	1983	Fiction
+Turbo Pascal	Settle, Mickey	1988	Non-Fiction
+The Life of Genius'	Johnson, Zach	2003	Biography
+Catcher in the Rye	Salinger, J.D.	1940	Fiction
+I Have a Question!	Muldoon, Clay	1995	Fiction
+Boy Scouts Rule	Scout, Peter	1999	Non-Fiction
+Soccer, and other fun sports	Best, Bryan	1987	Autobiography
+Do you know what Lima did?	White, Patrick	1993	Fiction
+I Like to Program	Suttel, Matt	1996	Autobiography
+Girls Rule	Black, Cameron	1959	Non-Fiction
+I Love Weird Computer Symbols	Chi, Chi-Wei	2001	Non-Fiction
+Drive My Trooper	Great, Adam	2002	Fiction
+How to Score in Football	Browner, Matt	2000	Journal
+Silence is Golden	Mister, Matt	1990	Advice
+Humor Gets Me By	Rummer, Spencer	1996	Non-Fiction
+My Name is "DAVID!!"	Lifter, David	2002	Autobiography
+Pamela Anderson is Canadian?	Shift, Andy	2001	Fiction
+Swimming Is Fun!	Funnier, Nathan	1994	Non-Fiction
+I Know Things...But Would Never Tell	Happy, Greg	1998	Non-Fiction
+Michael Jackson Borrowed My Gloves	Grape, Steven	1992	Fiction
+May I Use the Bathroom?	Gosh, Valerie	1993	Non-Fiction
+Quiet Waters Run Deep	Mystic, Matt	1990	Fiction
+Flirting "Might" Take You Far	Golly, Josh	2001	Fiction
+I'll Do It Tomorrow	Browner, Mike	2002	Advice
+Slave of Allah	Amie, Amanda	1995	Non-Fiction
+Sam, Sam the Programming Man	Desparato, Sam	1993	Fiction
+Switcheroo	Brown, James	2008	Non-Fiction
+Would you like some cheese with that Whine?	Mey, Austin	2008	Autobiography
+I'll Wrestle You to the Ground	Boss, Kevin	2008	Fiction
+Arg, Matey!	Barley, Michael	2008	Fiction
+Homework is for Chumps	Phils, Tyler	2008	Biography
+This and That	Bobby Billabong	2010	Non-Fiction
+
+		0	
